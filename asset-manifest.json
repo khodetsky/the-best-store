@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/noname-digital-store/static/css/main.c3d5249d.css",
+    "main.js": "/noname-digital-store/static/js/main.ff7be896.js",
+    "index.html": "/noname-digital-store/index.html",
+    "main.c3d5249d.css.map": "/noname-digital-store/static/css/main.c3d5249d.css.map",
+    "main.ff7be896.js.map": "/noname-digital-store/static/js/main.ff7be896.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.ff7be896.js"
+  ]
+}
