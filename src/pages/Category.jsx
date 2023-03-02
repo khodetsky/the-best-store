@@ -33,7 +33,7 @@ export const Category = () => {
             <Main>
                 {status === "done" && (
                     <>
-                        <GoBackBtn location={location.state.from}/>
+                        <GoBackBtn location={location}/>
                         <ProductsList products={products} location={location} />
                     </>
                 )}

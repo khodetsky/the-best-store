@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import image from "../images/fon.webp";
 
 export const Background = styled.div`
     min-height: 100vh;
@@ -12,8 +11,6 @@ export const Background = styled.div`
     padding-top: 100px;
     padding-left: 215px;
     padding-right: 215px;
-    background-image: url(${image})
-    
 `
 
 export const Main = styled.main`

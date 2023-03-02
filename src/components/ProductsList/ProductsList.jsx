@@ -5,6 +5,7 @@ import { useSelector } from "react-redux";
 
 export const ProductsList = ({ location }) => {
     const products = useSelector(getProducts);
+    // console.log(location)
     return (
         <LinkList>
             {products.map(product => (

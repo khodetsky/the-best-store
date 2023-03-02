@@ -9,8 +9,7 @@ export const FormContainer = styled.div`
     margin-right: auto;
     padding: 40px 20px;
     border-radius: 20px;
-    // backround-color: blur(4px);
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(3px);
 
     display: flex;
     flex-direction: column;

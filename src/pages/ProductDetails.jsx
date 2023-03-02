@@ -10,6 +10,7 @@ import { PageFooter } from "../components/PageFooter/PageFooter";
 export const ProductDetails = () => {
     const { productId } = useParams();
     const location = useLocation();
+    console.log(location, "prod")
 
     const [product, setProduct] = useState(null);
     const [status, setStatus] = useState("loading");
@@ -23,7 +24,7 @@ export const ProductDetails = () => {
             <Main>
                 {status === "done" && (
                     <>
-                        <GoBackBtn location={location.state.from}/>
+                        <GoBackBtn location={location}/>
                         <ProductData
                             product={product}
                             image={product.image}
