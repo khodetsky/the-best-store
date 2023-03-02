@@ -1,0 +1,21 @@
+[debug] [2023-03-02T12:14:49.528Z] ----------------------------------------------------------------------
+[debug] [2023-03-02T12:14:49.532Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\САША\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-03-02T12:14:49.534Z] CLI Version:   11.19.0
+[debug] [2023-03-02T12:14:49.534Z] Platform:      win32
+[debug] [2023-03-02T12:14:49.534Z] Node Version:  v16.16.0
+[debug] [2023-03-02T12:14:49.537Z] Time:          Thu Mar 02 2023 14:14:49 GMT+0200 (Восточная Европа, стандартное время)
+[debug] [2023-03-02T12:14:49.537Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-02T12:14:49.558Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-02T12:14:49.559Z] > authorizing via signed-in user (hodyaya@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\САША\Desktop\JS_games\noname-digital-store
+
