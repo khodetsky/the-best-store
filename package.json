@@ -1,8 +1,8 @@
 {
-  "name": "react-template",
+  "name": "the-best-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khodetsky.github.io/noname-digital-store/",
+  "homepage": "https://khodetsky.github.io/the-best-store/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.3",
