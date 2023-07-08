@@ -1,7 +1,12 @@
-# Test task from company NONAME DIGITAL
+# About
 
-This project was created using
-[Create React App](https://github.com/facebook/create-react-app)
+This is the website of an online store. He has authorization through Firebase and through a Google account. Without authorization, it is impossible to add goods to the basket.
+The following pages are implemented on the website:
+- Home page. It contains the Hero section and quick navigation to individual product categories;
+- Page with products. On it, you can choose a category of goods and sort them according to certain parameters;
+- A page with detailed information about the product. It contains a detailed description and a button to add the product to the cart;
+- Page with authentication;
+- A page with a shopping cart. On this page, you can review the items in your cart, remove the items you need, if necessary, and complete your order.
 
 ## Preparation.
 
@@ -10,7 +15,7 @@ This project was created using
 2. Clone this repository.
 3. Install the project's base dependencies with the `npm install` command.
 4. Start development mode by running `npm start`.
-5. Open http://localhost:3000/noname-digital-store/ to view it in the browser.
+5. Open http://localhost:3000/the-best-store/ to view it in the browser.
    The page will automatically reload if you make changes to the code. You will
    see the build errors and lint warnings in the console.
 6. Command `npm test` runs the test watcher in an interactivemode. By default,
@@ -27,7 +32,7 @@ deployed to GitHub Pages, in the gh-pages branch, every time the main branch is
 updated. For example, after a direct push or an accepted pull request.
 
 The live page can be viewed at
-"https://khodetsky.github.io/noname-digital-store/".
+"https://khodetsky.github.io/the-best-store/".
 
 ## How it works
 
