@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/the-best-store/static/css/main.c3d5249d.css",
-    "main.js": "/the-best-store/static/js/main.4a39dee3.js",
+    "main.js": "/the-best-store/static/js/main.42c92100.js",
     "static/media/fon.webp": "/the-best-store/static/media/fon.82987ac9f13348fb5733.webp",
     "static/media/logo.webp": "/the-best-store/static/media/logo.e6973a5784489aa2612a.webp",
     "static/media/sprite.svg": "/the-best-store/static/media/sprite.f65715956e8e041182540a1f51a50192.svg",
     "index.html": "/the-best-store/index.html",
     "static/media/noImage.webp": "/the-best-store/static/media/noImage.6dcc90e82dac5a1d1694.webp",
     "main.c3d5249d.css.map": "/the-best-store/static/css/main.c3d5249d.css.map",
-    "main.4a39dee3.js.map": "/the-best-store/static/js/main.4a39dee3.js.map"
+    "main.42c92100.js.map": "/the-best-store/static/js/main.42c92100.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.4a39dee3.js"
+    "static/js/main.42c92100.js"
   ]
 }
